@@ -26,8 +26,8 @@ Each cipher program is a standalone script. Follow these steps to run them:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/MaheshKamathKS/vignereCipher-FeistelCipher.git)
+cd inslabcodes
 ```
 
 ### Run a Specific Cipher
